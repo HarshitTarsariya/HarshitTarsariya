@@ -15,8 +15,5 @@
 ### About Me 🚀
 
 <div style="display:flex;flex-direction:column">
-<p>🎓 I’m an pursuing Software Engineering. </p>
+<p>🎓 Software Engineer </p>
 <p>👨‍💻 I am passionate about Development & I enjoy learning new things.</p>
-<p>👨‍💻 Majorly scratching head with Data Strutures and Algorithms, Competitive Coding</p>
-<p>🕵️‍♀️ Worked on AngularJS, ReactJS, ASP, Django, NodeJS, MongoDB, SQL, Flutter, Firestore, Machine Learning, JSP, Servlets</p> 
-<p>₿ Recently started learning Ethereum Blockchain, Solidity</p>  
